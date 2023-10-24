@@ -1,6 +1,6 @@
 syntax on
 set cindent 
-inoremap { {}<left>
+inoremap { {<CR>}<left><esc>O
 inoremap [ []<left>
 inoremap ( ()<left>
 inoremap " ""<left>
